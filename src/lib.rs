@@ -9,3 +9,6 @@ pub use roman_to_integer::*;
 
 pub mod longest_common_prefix;
 pub use longest_common_prefix::*;
+
+pub mod valid_parentheses;
+pub use valid_parentheses::*;
