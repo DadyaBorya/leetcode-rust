@@ -12,3 +12,6 @@ pub use longest_common_prefix::*;
 
 pub mod valid_parentheses;
 pub use valid_parentheses::*;
+
+pub mod merge_two_sorted_lists;
+pub use merge_two_sorted_lists::*;
