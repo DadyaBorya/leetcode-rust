@@ -24,3 +24,6 @@ pub use remove_element::*;
 
 pub mod find_the_index_of_the_first_occurrence_in_a_string;
 pub use find_the_index_of_the_first_occurrence_in_a_string::*;
+
+pub mod search_insert_position;
+pub use search_insert_position::*;
