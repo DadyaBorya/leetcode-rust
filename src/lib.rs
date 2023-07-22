@@ -30,3 +30,6 @@ pub use search_insert_position::*;
 
 pub mod length_of_last_word;
 pub use length_of_last_word::*;
+
+pub mod plus_one;
+pub use plus_one::*;
